@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body{
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  margin: 30px;
+}
+main{
+  margin: 30px;
+}
+footer{
+  text-align: center;
+}
+ol{
+  padding: 0px 20px;
+  
+}
+ul{
+  list-style-type: disc;
+}
+li{
+  font-weight: bold;
+}
+img{
+  width: 100%;
+  border-radius: 20px;
+}
+#italic {
+  font-style: italic;
+  text-align: center;
+}
+#pink{
+  color: palevioletred;
+}
+#orange{
+  color: orange;
+}
+#purple{
+  color: blueviolet;
+}
+#consideracao{
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+  margin-bottom: 30px;
+}
